@@ -64,8 +64,8 @@ h1 {
   font-size: 2em;
 }
 mark {
-  color: #000;
-  background: #ff0;
+  color: #5caaf3;
+  background: rgba(255, 255, 0, 0.685);
 }
 small {
   font-size: 80%;
@@ -167,7 +167,7 @@ input[type="search"]::-webkit-search-decoration {
 fieldset {
   padding: .35em .625em .75em;
   margin: 0 2px;
-  border: 1px solid #c0c0c0;
+  border: 1px solid #f78cc1;
 }
 legend {
   padding: 0;
@@ -192,7 +192,7 @@ th {
   *,
   *:before,
   *:after {
-    color: #000 !important;
+    color: #ec0bec !important;
     text-shadow: none !important;
     background: transparent !important;
     -webkit-box-shadow: none !important;
@@ -253,7 +253,7 @@ th {
   }
   .table td,
   .table th {
-    background-color: #fff !important;
+    background-color: #ffffff !important;
   }
   .table-bordered th,
   .table-bordered td {
